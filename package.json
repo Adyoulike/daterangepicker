@@ -26,7 +26,9 @@
     "nmp": "1.4.28"
   },
   "dependencies": {
-    "jquery": "^1.10",
     "moment": "^2.9.0"
+  },
+  "peerDependencies": {
+    "jquery": ">=1.10"
   }
 }
